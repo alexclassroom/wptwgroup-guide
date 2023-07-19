@@ -1,6 +1,6 @@
-# WordPress Taiwan 正體中文社團文件整理
+# WordPress Taiwan Community 台灣社群社團文件整理
 
-這個專案主要是用來管理 [WordPress Taiwan 正體中文](https://www.facebook.com/groups/wordpresstw/)社團的相關文件，透過版本管控的方式進行管理。藉此可以讓大家追蹤不同規範與文件的演變脈絡。
+這個專案主要是用來管理 [WordPress Taiwan Community 台灣社群](https://www.facebook.com/groups/wordpresstw/)社團的相關文件，透過版本管控的方式進行管理。藉此可以讓大家追蹤不同規範與文件的演變脈絡。
 
 這裡整理的文件也會陸續同步到 [WordPress 台灣小聚紀錄網站](https://wp-meetups.com/)中，然而如果內容有歧異，或版本有衝突時，以 GitHub 中記載的內容為主。
 
